@@ -1,3 +1,5 @@
 a = int(input())
 b = int(input())
 print(f'{a} + {b} = {a+b}')
+c = int(input())
+print(c)
